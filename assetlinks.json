@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.miniBrowser.app",
+      "sha256_cert_fingerprints": [
+        "89:26:54:77:87:06:23:FB:A8:03:1F:CF:41:F0:EF:3A:38:3D:8D:1A:D9:63:6A:B1:78:A5:D3:C6:F8:94:8C:17"
+      ]
+    }
+  }
+]
